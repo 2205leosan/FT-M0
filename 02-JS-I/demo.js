@@ -1,5 +1,6 @@
-function suma(a,b){
-        console.log(a+b);
+function suma(a, b) {
+  var c = a + b;
+  return c;
 }
 
-suma(1,2)
+ console.log(suma(1, 2));
